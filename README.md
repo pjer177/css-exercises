@@ -24,8 +24,8 @@ These exercises should be done when instructed during the course of the curricul
 ## Checklist for exercises (insert check ✅ into [ ] upon completion)
 
 1. Foundations:
-  - 01-css-methods [ ]
-  - 02-class-id-selectors [ ]
+  - 01-css-methods [✅]
+  - 02-class-id-selectors [✅]
   - 03-grouping-selectors [ ]
   - 04-chaining-selectors [ ]
   - 05-descendant-combinator [ ]
