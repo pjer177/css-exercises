@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'JackInput';
+  src: url('jai_____.ttf');
+}
+
+* {font-family: JackInput;
+letter-spacing: 0.1rem;}
+
 .header  {
   font-family: monospace;
   background: papayawhip;
@@ -12,14 +20,18 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  align-items: center;
-  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
+
+.logo div{display: flex; justify-content: center;
+align-items: center;}
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   padding: 0px;
+  gap:8px;
 }
 
 a {
@@ -36,3 +48,5 @@ a {
 
 .right-links ul {display: flex;
   }
+
+
